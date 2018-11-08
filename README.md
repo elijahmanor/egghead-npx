@@ -12,7 +12,7 @@ Check them out:
 ## Branches
 
 Each lesson from the course has a cooresponding branch that has code or content
-relavent to it.
+relavent to it as well as a corresponding folder found in `/lessons`
 
 1. [lesson-1](./lessons/01-use-npx-to-run-locally-installed-node-modules)
 2. [lesson-2](./lessons/02-use-npx-to-temporarily-install-and-invoke-a-package-from-npm)
