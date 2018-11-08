@@ -14,12 +14,12 @@ Check them out:
 Each lesson from the course has a cooresponding branch that has code or content
 relavent to it.
 
-1. [lesson-1](../../tree/lesson-1)
-2. [lesson-2](../../tree/lesson-2)
-3. [lesson-3](../../tree/lesson-3)
-4. [lesson-4](../../tree/lesson-4)
-5. [lesson-5](../../tree/lesson-5)
-6. [lesson-6](../../tree/lesson-6)
-7. [lesson-7](../../tree/lesson-7)
+1. [lesson-1](./lessons/01-use-npx-to-run-locally-installed-node-modules)
+2. [lesson-2](./lessons/02-use-npx-to-temporarily-install-and-invoke-a-package-from-npm)
+3. [lesson-3](./lessons/03-test-different-node-module-versions-with-npx)
+4. [lesson-4](./lessons/04-use-npx-to-run-commands-with-different-node-js-versions)
+5. [lesson-5](./lessons/05-execute-npx-commands-with-npm_-environment-variables)
+6. [lesson-6](./lessons/06-execute-code-from-a-remote-github-branch-with-npx)
+7. [lesson-7](./lessons/07-use-npx-to-execute-code-from-a-github-gist)
 
 
