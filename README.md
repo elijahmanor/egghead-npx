@@ -2,7 +2,12 @@
 
 This contains the code from the egghead.io npx course
 
+## Flow chart cheat sheets
 
+This course is accompanied with several flow charts (1 per lesson). That show the topic covered in a visual manner for your ease of use.
+
+Check them out:
+[link to Flow chart folder](![example of first lesson](../flow-chart-downloads-execute-npm-package-binaries-with-the-npx-package-runner/01-use-npx-to-run-locally-installed-node-modules.png))
 
 ## Branches
 
